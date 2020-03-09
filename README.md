@@ -35,3 +35,6 @@ bert会导致运行效率降低很多，毕竟模型的参数量摆在那里，�
 =
 1. [google-research/bert](https://arxiv.org/abs/1408.5882)
 2. [brightmart/bert_language_understanding](https://github.com/brightmart/bert_language_understanding)
+
+
+![image](https://github.com/cjymz886/sentence-similarity/blob/master/images/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5.png)<br>
